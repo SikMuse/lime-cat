@@ -1,2 +1,4 @@
 # lime-cat
-Shtuff. 
+Shtuff n' shtuff. 
+
+Don't peek! :3
